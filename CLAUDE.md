@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ExamDemo — Entscheidungs-Demo für exam.net Ersatz
 
 ## Zweck
@@ -107,3 +108,6 @@ Spalten: category, type, prompt, option_a, option_b, option_c, option_d, correct
 - Tailwind für Layout
 - Deutsch als UI-Sprache
 - Mobile-kompatibel aber Desktop-first
+=======
+@AGENTS.md
+>>>>>>> 4be6f85 (Initial commit from Create Next App)
