@@ -1,0 +1,21 @@
+category,type,prompt,option_a,option_b,option_c,option_d,correct_answer,points,tags
+Mathematik,mcq,Was ist die Quadratwurzel von 144?,10,11,12,13,c,1,Quadratwurzeln;Grundlagen
+Mathematik,mcq,Welche Gleichung ist korrekt?,2+2=5,3×3=6,4²=16,5-3=1,c,1,Gleichungen
+Mathematik,short_answer,Was ist der Satz des Pythagoras?,,,,a²+b²=c²,3,Geometrie;Pythagoras
+Mathematik,free_text,Erkläre warum die Zahl Pi irrational ist.,,,,, 4,Pi;Irrationalzahlen
+Deutsch,mcq,Welcher Text ist ein Sonett?,Faust I,Die Leiden des jungen Werthers,An die Freude,Der Erlkönig,c,2,Lyrik;Formen
+Deutsch,mcq,Was ist ein Pleonasmus?,Ein versteckter Sinn,Eine sinnlose Wiederholung,Ein Widerspruch,Eine Übertreibung,b,1,Stilmittel
+Deutsch,short_answer,Nenne drei Merkmale der Romantik als literarische Epoche.,,,,Sehnsucht nach Ferne; Naturverklärung; Hinwendung zum Irrationalen,3,Epochen;Romantik
+Deutsch,free_text,Analysiere die Struktur und Wirkung des Gedichts 'Der Erlkönig' von Goethe.,,,,, 6,Analyse;Goethe
+Biologie,mcq,Welche DNS-Base paart sich mit Adenin?,Guanin,Cytosin,Thymin,Uracil,c,1,DNS;Genetik
+Biologie,mcq,Was ist der Unterschied zwischen Mitose und Meiose?,Mitose ist schneller,Meiose produziert 4 haploide Zellen,Mitose findet nur in Pflanzen statt,Meiose ist für Körperwachstum,b,2,Zellteilung
+Biologie,short_answer,Definiere den Begriff Osmose.,,,,,Bewegung von Wasser durch eine semipermeable Membran von niedrigerer zu höherer Konzentration,2,Osmose;Transport
+Biologie,free_text,Beschreibe den Ablauf der Meiose und erläutere ihre Bedeutung für die genetische Vielfalt.,,,,, 5,Meiose;Genetik
+Geschichte,mcq,Wann fiel die Berliner Mauer?,1987,1989,1991,1993,b,1,Deutsche Geschichte;Mauerfall
+Geschichte,mcq,Welches Ereignis löste die Französische Revolution aus?,Napoleons Machtübernahme,Sturm auf die Bastille,Hinrichtung Ludwigs XVI,Verabschiedung der Menschenrechtserklärung,b,1,Französische Revolution
+Geschichte,short_answer,Was versteht man unter dem Begriff 'Imperialismus'?,,,,Ausweitung politischer und wirtschaftlicher Macht über andere Territorien,2,Imperialismus;19. Jahrhundert
+Geschichte,free_text,Analysiere die Ursachen und Folgen des Zweiten Weltkriegs.,,,,, 8,Weltkrieg;Analyse
+Informatik,mcq,Was bedeutet das Akronym HTML?,Hyperlinks and Text Markup Language,Hyper Text Markup Language,High Text Machine Language,Hypertext Multiple Language,b,1,Grundlagen;Web
+Informatik,mcq,Welche Datenstruktur arbeitet nach dem LIFO-Prinzip?,Queue,Array,Stack,Linked List,c,1,Datenstrukturen
+Informatik,short_answer,Erkläre den Unterschied zwischen kompilierter und interpretierter Sprache.,,,,Kompilierte Sprachen werden vor der Ausführung in Maschinencode übersetzt; interpretierte werden zur Laufzeit ausgeführt,3,Programmierung;Grundlagen
+Informatik,free_text,Erläutere das Konzept der objektorientierten Programmierung anhand eines konkreten Beispiels.,,,,, 5,OOP;Konzepte
